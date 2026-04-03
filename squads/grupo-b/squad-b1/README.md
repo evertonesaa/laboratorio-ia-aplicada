@@ -1,4 +1,4 @@
-# Squad A1
+# Squad B1
 
 ## Integrantes
 
