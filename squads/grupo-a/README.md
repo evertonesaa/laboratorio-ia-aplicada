@@ -1,6 +1,6 @@
 # Grupo A
 
-Monitor responsável: [Nome do monitor]
+Monitor responsável: Letícia - @Leticiamendes0
 
 Este grupo desenvolve projetos no Laboratório de IA Aplicada.
 
