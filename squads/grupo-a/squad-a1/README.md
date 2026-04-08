@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- aluno 1
-- aluno 2
+Carolina Vilaça Lins Leite
+vanessavalencio39
 - aluno 3
 - aluno 4
 - aluno 5
