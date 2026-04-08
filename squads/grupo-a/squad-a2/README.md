@@ -2,11 +2,14 @@
 
 ## Integrantes
 
-- aluno 1
-- aluno 2
-- aluno 3
-- aluno 4
-- aluno 5
+Aline Valeska De Sousa Nunes
+
+Arthur César
+
+David Miranda Almeida Neto
+
+Eduardo Alexandre Cordeiro Felix
+
 
 ## Problema
 
