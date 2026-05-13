@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-- aluno 1
-- aluno 2
-- aluno 3
-- aluno 4
-- aluno 5
+- Edinaele Sibele
+- Gabriel Lima
+- Michele Simone
+- Pedro Rodrigo
+- Vinicio Rikelme
 
 ## Problema
 
